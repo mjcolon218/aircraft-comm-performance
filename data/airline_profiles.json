@@ -1,0 +1,37 @@
+{
+    "AAL": {
+        "name": "American Airlines",
+        "hub": "DFW",
+        "fleet_size": 950
+    },
+    "DAL": {
+        "name": "Delta Air Lines",
+        "hub": "ATL",
+        "fleet_size": 900
+    },
+    "UAL": {
+        "name": "United Airlines",
+        "hub": "ORD",
+        "fleet_size": 850
+    },
+    "SWA": {
+        "name": "Southwest Airlines",
+        "hub": "DAL",
+        "fleet_size": 700
+    },
+    "JBU": {
+        "name": "JetBlue",
+        "hub": "JFK",
+        "fleet_size": 300
+    },
+    "FFT": {
+        "name": "Frontier Airlines",
+        "hub": "DEN",
+        "fleet_size": 200
+    },
+    "NKS": {
+        "name": "Spirit Airlines",
+        "hub": "FLL",
+        "fleet_size": 250
+    }
+}

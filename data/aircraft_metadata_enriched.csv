@@ -1,0 +1,2067 @@
+aircraft_id,airline,model,manufacture_year,fleet_type,airline_name,hub,fleet_size
+UAL865,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL906,UAL,B757,2009,Wide,United Airlines,ORD,850
+NKS569,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+FFT724,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+FFT697,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA425,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+UAL564,UAL,B757,2012,Wide,United Airlines,ORD,850
+AAL158,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+JBU237,JBU,A321,2005,Wide,JetBlue,JFK,300
+NKS277,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+SWA315,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+FFT861,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+FFT762,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+SWA421,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL208,UAL,B757,2021,Wide,United Airlines,ORD,850
+DAL831,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+UAL278,UAL,B757,2005,Wide,United Airlines,ORD,850
+UAL830,UAL,B757,2008,Wide,United Airlines,ORD,850
+AAL644,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+UAL896,UAL,B757,2005,Wide,United Airlines,ORD,850
+SWA213,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+NKS522,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+NKS962,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+NKS933,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+NKS368,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+NKS464,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+SWA190,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+SWA887,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+SWA707,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+UAL764,UAL,B757,2005,Wide,United Airlines,ORD,850
+UAL651,UAL,B757,2012,Wide,United Airlines,ORD,850
+NKS779,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+FFT121,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+SWA353,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+SWA660,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+JBU154,JBU,A321,2021,Wide,JetBlue,JFK,300
+DAL516,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+DAL257,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+DAL496,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+FFT397,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+UAL910,UAL,B757,2021,Wide,United Airlines,ORD,850
+NKS354,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+DAL744,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+JBU420,JBU,A321,2008,Wide,JetBlue,JFK,300
+AAL724,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+UAL594,UAL,B757,2018,Wide,United Airlines,ORD,850
+NKS904,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+JBU586,JBU,A321,2012,Wide,JetBlue,JFK,300
+NKS838,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+DAL308,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+SWA974,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+SWA215,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+UAL557,UAL,B757,2021,Wide,United Airlines,ORD,850
+DAL771,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+AAL410,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU672,JBU,A321,2006,Wide,JetBlue,JFK,300
+SWA726,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+NKS853,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+SWA811,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+JBU893,JBU,A321,2021,Wide,JetBlue,JFK,300
+DAL841,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+DAL867,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+SWA120,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+DAL833,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+AAL725,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU427,JBU,A321,2018,Wide,JetBlue,JFK,300
+DAL512,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+DAL174,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+NKS152,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+NKS125,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+UAL782,UAL,B757,2016,Wide,United Airlines,ORD,850
+AAL528,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+NKS541,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+FFT983,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+JBU165,JBU,A321,2020,Wide,JetBlue,JFK,300
+SWA350,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+FFT885,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+UAL229,UAL,B757,2005,Wide,United Airlines,ORD,850
+NKS287,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+NKS623,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+NKS210,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+DAL984,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+SWA827,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+JBU515,JBU,A321,2015,Wide,JetBlue,JFK,300
+FFT318,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+NKS591,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+NKS150,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+NKS127,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL845,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA779,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU279,JBU,A321,2012,Wide,JetBlue,JFK,300
+UAL662,UAL,B757,2005,Wide,United Airlines,ORD,850
+SWA705,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+DAL550,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+NKS881,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+JBU972,JBU,A321,2010,Wide,JetBlue,JFK,300
+DAL143,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+UAL102,UAL,B757,2021,Wide,United Airlines,ORD,850
+AAL481,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+JBU401,JBU,A321,2005,Wide,JetBlue,JFK,300
+SWA638,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+JBU466,JBU,A321,2015,Wide,JetBlue,JFK,300
+DAL546,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+AAL624,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+NKS609,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+DAL180,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU558,JBU,A321,2021,Wide,JetBlue,JFK,300
+SWA202,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+UAL696,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU508,JBU,A321,2008,Wide,JetBlue,JFK,300
+SWA728,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA200,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+DAL435,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL532,UAL,B757,2020,Wide,United Airlines,ORD,850
+JBU473,JBU,A321,2021,Wide,JetBlue,JFK,300
+NKS126,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+UAL708,UAL,B757,2007,Wide,United Airlines,ORD,850
+FFT278,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+AAL994,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+UAL766,UAL,B757,2016,Wide,United Airlines,ORD,850
+AAL558,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+FFT171,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+DAL600,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+FFT747,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+FFT301,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+DAL948,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+JBU430,JBU,A321,2019,Wide,JetBlue,JFK,300
+SWA212,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+FFT636,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+NKS596,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+AAL134,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+UAL719,UAL,B757,2017,Wide,United Airlines,ORD,850
+AAL407,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+JBU449,JBU,A321,2012,Wide,JetBlue,JFK,300
+FFT640,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+NKS905,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+DAL695,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+SWA615,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+SWA919,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL734,UAL,B757,2008,Wide,United Airlines,ORD,850
+SWA967,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+SWA637,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+NKS945,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+DAL314,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL960,UAL,B757,2016,Wide,United Airlines,ORD,850
+SWA382,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+NKS952,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+NKS205,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+DAL276,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+FFT962,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+FFT846,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+FFT783,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+DAL453,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+SWA851,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL301,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+AAL519,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+NKS519,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+NKS635,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+JBU599,JBU,A321,2011,Wide,JetBlue,JFK,300
+AAL853,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+UAL419,UAL,B757,2018,Wide,United Airlines,ORD,850
+AAL364,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+AAL683,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL103,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+AAL806,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+SWA906,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+DAL152,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+DAL454,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+JBU695,JBU,A321,2015,Wide,JetBlue,JFK,300
+JBU930,JBU,A321,2006,Wide,JetBlue,JFK,300
+DAL712,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+UAL605,UAL,B757,2018,Wide,United Airlines,ORD,850
+FFT881,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+AAL546,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT852,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL410,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL357,UAL,B757,2006,Wide,United Airlines,ORD,850
+AAL978,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+FFT808,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+AAL189,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+FFT410,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+AAL142,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+FFT243,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+FFT677,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+UAL240,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL926,UAL,B757,2016,Wide,United Airlines,ORD,850
+DAL319,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+NKS314,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+JBU765,JBU,A321,2009,Wide,JetBlue,JFK,300
+UAL361,UAL,B757,2005,Wide,United Airlines,ORD,850
+NKS327,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+SWA669,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+AAL164,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+AAL581,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+SWA936,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+AAL606,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+FFT234,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+UAL783,UAL,B757,2017,Wide,United Airlines,ORD,850
+SWA271,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+UAL526,UAL,B757,2015,Wide,United Airlines,ORD,850
+JBU989,JBU,A321,2011,Wide,JetBlue,JFK,300
+JBU403,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL298,UAL,B757,2017,Wide,United Airlines,ORD,850
+AAL545,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+DAL655,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+UAL634,UAL,B757,2013,Wide,United Airlines,ORD,850
+UAL539,UAL,B757,2018,Wide,United Airlines,ORD,850
+NKS184,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+NKS167,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+FFT143,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+DAL690,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+JBU525,JBU,A321,2012,Wide,JetBlue,JFK,300
+DAL289,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+FFT450,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+DAL795,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+SWA446,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+NKS557,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+UAL805,UAL,B757,2014,Wide,United Airlines,ORD,850
+FFT615,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+UAL627,UAL,B757,2013,Wide,United Airlines,ORD,850
+FFT739,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+JBU179,JBU,A321,2019,Wide,JetBlue,JFK,300
+NKS351,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+NKS496,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+NKS949,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+UAL279,UAL,B757,2012,Wide,United Airlines,ORD,850
+DAL540,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+AAL863,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT343,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+FFT746,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+FFT465,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+NKS139,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL381,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+JBU244,JBU,A321,2017,Wide,JetBlue,JFK,300
+NKS908,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+AAL777,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+FFT812,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+AAL472,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+SWA329,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+UAL909,UAL,B757,2005,Wide,United Airlines,ORD,850
+FFT127,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+NKS758,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+FFT537,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+FFT461,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+SWA435,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+NKS621,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+DAL245,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+UAL927,UAL,B757,2014,Wide,United Airlines,ORD,850
+SWA279,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+FFT132,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+UAL823,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS414,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+AAL115,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+DAL302,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA115,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+DAL954,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+SWA767,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+SWA393,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU902,JBU,A321,2005,Wide,JetBlue,JFK,300
+FFT577,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL218,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+UAL876,UAL,B757,2008,Wide,United Airlines,ORD,850
+DAL526,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+DAL535,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL148,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL813,UAL,B757,2015,Wide,United Airlines,ORD,850
+SWA497,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+FFT332,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+FFT664,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+JBU367,JBU,A321,2015,Wide,JetBlue,JFK,300
+DAL161,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+AAL231,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+DAL111,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+AAL874,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+DAL450,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+UAL843,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS909,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+FFT442,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+FFT854,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+AAL533,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+NKS515,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+UAL375,UAL,B757,2017,Wide,United Airlines,ORD,850
+SWA184,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+SWA102,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+SWA378,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+DAL627,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+SWA191,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+AAL455,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+NKS395,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+FFT518,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+NKS524,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+UAL485,UAL,B757,2014,Wide,United Airlines,ORD,850
+AAL125,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT134,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+AAL181,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL850,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+DAL286,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+SWA226,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+SWA537,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+JBU825,JBU,A321,2006,Wide,JetBlue,JFK,300
+JBU943,JBU,A321,2015,Wide,JetBlue,JFK,300
+DAL396,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+NKS109,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+AAL754,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+DAL225,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+JBU312,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL252,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU411,JBU,A321,2018,Wide,JetBlue,JFK,300
+FFT602,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+SWA959,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+NKS800,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+SWA573,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+DAL256,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+DAL429,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA381,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+AAL667,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+AAL782,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+FFT709,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+FFT325,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+JBU976,JBU,A321,2018,Wide,JetBlue,JFK,300
+NKS208,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+UAL124,UAL,B757,2018,Wide,United Airlines,ORD,850
+UAL831,UAL,B757,2010,Wide,United Airlines,ORD,850
+NKS423,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+SWA141,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+UAL673,UAL,B757,2017,Wide,United Airlines,ORD,850
+NKS703,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+JBU117,JBU,A321,2008,Wide,JetBlue,JFK,300
+FFT242,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+AAL344,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+DAL929,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+NKS819,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+UAL613,UAL,B757,2019,Wide,United Airlines,ORD,850
+NKS614,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL661,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+NKS467,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+SWA169,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL780,UAL,B757,2011,Wide,United Airlines,ORD,850
+JBU872,JBU,A321,2019,Wide,JetBlue,JFK,300
+FFT626,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+DAL120,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU137,JBU,A321,2020,Wide,JetBlue,JFK,300
+NKS825,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+FFT394,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+NKS129,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+NKS468,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+NKS912,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+DAL420,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+JBU173,JBU,A321,2010,Wide,JetBlue,JFK,300
+DAL639,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+JBU360,JBU,A321,2016,Wide,JetBlue,JFK,300
+AAL252,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+DAL574,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+SWA418,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL555,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+NKS251,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+NKS859,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+NKS706,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+NKS722,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+DAL572,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+JBU577,JBU,A321,2020,Wide,JetBlue,JFK,300
+DAL130,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+DAL332,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+SWA850,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL204,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+JBU852,JBU,A321,2019,Wide,JetBlue,JFK,300
+AAL807,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+SWA996,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+SWA670,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+DAL923,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+JBU754,JBU,A321,2018,Wide,JetBlue,JFK,300
+DAL856,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+NKS917,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+UAL141,UAL,B757,2008,Wide,United Airlines,ORD,850
+JBU428,JBU,A321,2013,Wide,JetBlue,JFK,300
+FFT638,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+AAL947,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+JBU951,JBU,A321,2020,Wide,JetBlue,JFK,300
+FFT843,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+DAL975,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+DAL931,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+UAL247,UAL,B757,2011,Wide,United Airlines,ORD,850
+JBU799,JBU,A321,2005,Wide,JetBlue,JFK,300
+DAL896,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+FFT721,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+SWA854,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+UAL553,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA222,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+NKS197,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+NKS116,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL933,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+JBU133,JBU,A321,2009,Wide,JetBlue,JFK,300
+NKS985,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+SWA586,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+FFT678,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+JBU886,JBU,A321,2006,Wide,JetBlue,JFK,300
+SWA256,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+DAL436,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL652,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+DAL202,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+AAL435,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+JBU866,JBU,A321,2005,Wide,JetBlue,JFK,300
+DAL123,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+AAL501,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+SWA412,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA154,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL722,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+SWA909,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+NKS875,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL509,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+FFT225,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+FFT247,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+JBU784,JBU,A321,2014,Wide,JetBlue,JFK,300
+SWA714,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL569,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS432,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+NKS991,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+JBU710,JBU,A321,2017,Wide,JetBlue,JFK,300
+FFT882,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+FFT287,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+AAL374,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL611,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+AAL918,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+SWA584,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+SWA331,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+SWA700,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL955,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT716,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+AAL106,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+DAL756,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+SWA474,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+AAL963,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+SWA647,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL146,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+JBU703,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL614,UAL,B757,2019,Wide,United Airlines,ORD,850
+JBU560,JBU,A321,2014,Wide,JetBlue,JFK,300
+DAL635,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+FFT981,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL793,UAL,B757,2017,Wide,United Airlines,ORD,850
+SWA681,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+DAL474,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+AAL930,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU302,JBU,A321,2008,Wide,JetBlue,JFK,300
+DAL958,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+JBU245,JBU,A321,2017,Wide,JetBlue,JFK,300
+FFT800,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+JBU924,JBU,A321,2005,Wide,JetBlue,JFK,300
+UAL520,UAL,B757,2021,Wide,United Airlines,ORD,850
+AAL763,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+FFT484,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+FFT695,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+NKS999,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+AAL544,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+AAL887,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+SWA386,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+SWA633,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+NKS237,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+AAL670,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+AAL355,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+SWA130,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+NKS381,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+SWA769,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+FFT501,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL426,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+FFT495,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL841,UAL,B757,2014,Wide,United Airlines,ORD,850
+AAL938,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+UAL113,UAL,B757,2010,Wide,United Airlines,ORD,850
+JBU855,JBU,A321,2012,Wide,JetBlue,JFK,300
+DAL146,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+DAL424,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+UAL477,UAL,B757,2011,Wide,United Airlines,ORD,850
+UAL778,UAL,B757,2021,Wide,United Airlines,ORD,850
+SWA713,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+NKS699,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+DAL385,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+JBU315,JBU,A321,2007,Wide,JetBlue,JFK,300
+SWA562,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+NKS715,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+NKS133,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+JBU932,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL112,UAL,B757,2010,Wide,United Airlines,ORD,850
+DAL532,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+NKS135,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+NKS602,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+DAL583,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+DAL121,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+UAL502,UAL,B757,2008,Wide,United Airlines,ORD,850
+AAL689,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+UAL856,UAL,B757,2021,Wide,United Airlines,ORD,850
+SWA789,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+FFT335,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+NKS112,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+DAL942,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+AAL745,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+DAL559,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+DAL343,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+AAL622,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+DAL953,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+DAL104,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+UAL630,UAL,B757,2009,Wide,United Airlines,ORD,850
+FFT831,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+DAL271,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+JBU816,JBU,A321,2015,Wide,JetBlue,JFK,300
+FFT102,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+SWA110,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+DAL317,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+NKS752,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+AAL376,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL168,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+NKS301,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+NKS527,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+FFT574,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+DAL742,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+AAL694,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+SWA325,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+SWA438,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+UAL636,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS362,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+UAL437,UAL,B757,2011,Wide,United Airlines,ORD,850
+UAL986,UAL,B757,2014,Wide,United Airlines,ORD,850
+JBU518,JBU,A321,2006,Wide,JetBlue,JFK,300
+JBU254,JBU,A321,2021,Wide,JetBlue,JFK,300
+FFT451,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+FFT617,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+AAL162,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL439,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+NKS704,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+SWA800,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+JBU701,JBU,A321,2020,Wide,JetBlue,JFK,300
+SWA267,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+AAL442,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL272,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+UAL472,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU937,JBU,A321,2013,Wide,JetBlue,JFK,300
+AAL366,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+UAL529,UAL,B757,2018,Wide,United Airlines,ORD,850
+DAL374,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+JBU200,JBU,A321,2009,Wide,JetBlue,JFK,300
+JBU484,JBU,A321,2006,Wide,JetBlue,JFK,300
+DAL431,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+FFT208,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+UAL122,UAL,B757,2010,Wide,United Airlines,ORD,850
+JBU674,JBU,A321,2007,Wide,JetBlue,JFK,300
+AAL148,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+UAL332,UAL,B757,2009,Wide,United Airlines,ORD,850
+NKS580,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+NKS169,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU540,JBU,A321,2021,Wide,JetBlue,JFK,300
+DAL140,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+DAL310,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+NKS334,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+UAL981,UAL,B757,2019,Wide,United Airlines,ORD,850
+DAL169,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+UAL905,UAL,B757,2016,Wide,United Airlines,ORD,850
+JBU111,JBU,A321,2019,Wide,JetBlue,JFK,300
+FFT578,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+UAL210,UAL,B757,2019,Wide,United Airlines,ORD,850
+SWA882,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+UAL468,UAL,B757,2021,Wide,United Airlines,ORD,850
+NKS545,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+DAL408,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL903,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+FFT298,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+NKS188,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+SWA273,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA172,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+NKS544,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+UAL669,UAL,B757,2014,Wide,United Airlines,ORD,850
+NKS950,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+JBU146,JBU,A321,2016,Wide,JetBlue,JFK,300
+DAL443,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+NKS201,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+DAL336,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+JBU692,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL205,UAL,B757,2007,Wide,United Airlines,ORD,850
+JBU145,JBU,A321,2018,Wide,JetBlue,JFK,300
+FFT382,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL427,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+SWA601,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+UAL394,UAL,B757,2016,Wide,United Airlines,ORD,850
+FFT411,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+DAL208,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+SWA870,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+NKS989,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+DAL992,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+DAL877,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+NKS711,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+DAL238,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+SWA201,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+FFT782,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+DAL842,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+FFT245,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+UAL463,UAL,B757,2007,Wide,United Airlines,ORD,850
+AAL512,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+UAL763,UAL,B757,2020,Wide,United Airlines,ORD,850
+JBU256,JBU,A321,2013,Wide,JetBlue,JFK,300
+FFT631,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+FFT753,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+SWA299,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+NKS740,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+FFT408,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+SWA861,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+SWA646,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+DAL640,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+SWA738,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+SWA380,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+AAL674,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+NKS669,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+DAL854,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+SWA961,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+NKS393,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+SWA111,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+FFT246,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+DAL693,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+AAL843,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+AAL762,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+NKS240,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+UAL121,UAL,B757,2019,Wide,United Airlines,ORD,850
+SWA518,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+FFT996,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+DAL342,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+FFT680,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+JBU487,JBU,A321,2016,Wide,JetBlue,JFK,300
+DAL506,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+SWA483,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+JBU883,JBU,A321,2010,Wide,JetBlue,JFK,300
+SWA764,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+SWA743,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+JBU489,JBU,A321,2007,Wide,JetBlue,JFK,300
+SWA286,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+UAL324,UAL,B757,2017,Wide,United Airlines,ORD,850
+NKS644,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+JBU110,JBU,A321,2019,Wide,JetBlue,JFK,300
+AAL167,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+UAL993,UAL,B757,2015,Wide,United Airlines,ORD,850
+JBU215,JBU,A321,2013,Wide,JetBlue,JFK,300
+UAL852,UAL,B757,2005,Wide,United Airlines,ORD,850
+AAL137,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+UAL769,UAL,B757,2021,Wide,United Airlines,ORD,850
+FFT336,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+SWA797,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+NKS379,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+JBU476,JBU,A321,2006,Wide,JetBlue,JFK,300
+DAL384,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+UAL500,UAL,B757,2008,Wide,United Airlines,ORD,850
+AAL340,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+UAL794,UAL,B757,2015,Wide,United Airlines,ORD,850
+SWA902,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+FFT457,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+NKS331,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+SWA937,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+UAL333,UAL,B757,2005,Wide,United Airlines,ORD,850
+JBU907,JBU,A321,2018,Wide,JetBlue,JFK,300
+NKS227,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+AAL985,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+UAL442,UAL,B757,2012,Wide,United Airlines,ORD,850
+NKS777,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+UAL341,UAL,B757,2010,Wide,United Airlines,ORD,850
+FFT668,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+NKS236,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+AAL408,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+AAL550,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+NKS202,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+UAL173,UAL,B757,2016,Wide,United Airlines,ORD,850
+SWA488,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+UAL945,UAL,B757,2014,Wide,United Airlines,ORD,850
+NKS106,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+SWA717,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+UAL742,UAL,B757,2006,Wide,United Airlines,ORD,850
+SWA118,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL139,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+NKS225,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+UAL207,UAL,B757,2009,Wide,United Airlines,ORD,850
+JBU236,JBU,A321,2006,Wide,JetBlue,JFK,300
+JBU239,JBU,A321,2014,Wide,JetBlue,JFK,300
+NKS559,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU395,JBU,A321,2005,Wide,JetBlue,JFK,300
+FFT633,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+UAL118,UAL,B757,2008,Wide,United Airlines,ORD,850
+JBU640,JBU,A321,2009,Wide,JetBlue,JFK,300
+AAL497,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+UAL664,UAL,B757,2005,Wide,United Airlines,ORD,850
+SWA470,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+FFT629,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+NKS123,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+AAL845,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+UAL153,UAL,B757,2013,Wide,United Airlines,ORD,850
+SWA770,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+FFT787,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+FFT819,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+UAL497,UAL,B757,2011,Wide,United Airlines,ORD,850
+DAL997,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+SWA317,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+NKS427,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+AAL323,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+JBU268,JBU,A321,2005,Wide,JetBlue,JFK,300
+UAL418,UAL,B757,2019,Wide,United Airlines,ORD,850
+JBU392,JBU,A321,2007,Wide,JetBlue,JFK,300
+SWA524,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+DAL117,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+DAL148,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+FFT116,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL957,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+AAL849,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+AAL714,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+NKS305,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+DAL198,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+UAL985,UAL,B757,2015,Wide,United Airlines,ORD,850
+SWA450,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+NKS413,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+DAL491,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+AAL899,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+JBU733,JBU,A321,2015,Wide,JetBlue,JFK,300
+NKS409,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+JBU704,JBU,A321,2009,Wide,JetBlue,JFK,300
+UAL373,UAL,B757,2021,Wide,United Airlines,ORD,850
+SWA857,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+FFT554,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+AAL102,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+SWA355,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+JBU908,JBU,A321,2018,Wide,JetBlue,JFK,300
+SWA339,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+SWA335,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+FFT366,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+FFT847,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+JBU452,JBU,A321,2018,Wide,JetBlue,JFK,300
+SWA199,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+JBU262,JBU,A321,2011,Wide,JetBlue,JFK,300
+FFT749,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+UAL364,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU732,JBU,A321,2019,Wide,JetBlue,JFK,300
+AAL750,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL239,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT331,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+FFT351,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+AAL414,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+AAL416,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU308,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL712,UAL,B757,2006,Wide,United Airlines,ORD,850
+SWA546,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+AAL404,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+SWA403,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+FFT365,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+NKS710,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL921,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+JBU786,JBU,A321,2006,Wide,JetBlue,JFK,300
+FFT956,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+DAL901,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+SWA481,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+NKS768,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+UAL864,UAL,B757,2018,Wide,United Airlines,ORD,850
+AAL280,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU874,JBU,A321,2020,Wide,JetBlue,JFK,300
+AAL575,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+UAL623,UAL,B757,2006,Wide,United Airlines,ORD,850
+FFT342,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+NKS252,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+JBU648,JBU,A321,2008,Wide,JetBlue,JFK,300
+DAL480,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU469,JBU,A321,2015,Wide,JetBlue,JFK,300
+FFT424,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+FFT845,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+DAL925,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+AAL458,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+NKS538,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+NKS873,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+FFT367,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+DAL763,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+DAL397,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA506,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+DAL839,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+FFT872,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+SWA575,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+JBU620,JBU,A321,2007,Wide,JetBlue,JFK,300
+NKS439,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+FFT909,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+JBU896,JBU,A321,2021,Wide,JetBlue,JFK,300
+FFT155,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+FFT555,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+DAL376,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+JBU783,JBU,A321,2011,Wide,JetBlue,JFK,300
+SWA548,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+NKS520,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+SWA265,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+NKS374,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+NKS854,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+FFT873,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+NKS537,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+UAL350,UAL,B757,2006,Wide,United Airlines,ORD,850
+DAL876,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+AAL868,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+JBU651,JBU,A321,2006,Wide,JetBlue,JFK,300
+AAL450,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+SWA744,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+DAL478,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA247,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+UAL915,UAL,B757,2011,Wide,United Airlines,ORD,850
+AAL308,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+FFT170,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL719,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+SWA180,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+DAL106,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+AAL956,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+JBU900,JBU,A321,2007,Wide,JetBlue,JFK,300
+AAL662,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+SWA129,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+FFT857,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+UAL592,UAL,B757,2015,Wide,United Airlines,ORD,850
+UAL319,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA720,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+FFT316,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+SWA449,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+JBU613,JBU,A321,2007,Wide,JetBlue,JFK,300
+JBU365,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU740,JBU,A321,2007,Wide,JetBlue,JFK,300
+AAL241,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+FFT832,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+JBU974,JBU,A321,2007,Wide,JetBlue,JFK,300
+NKS437,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+DAL452,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+SWA477,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+NKS857,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU425,JBU,A321,2009,Wide,JetBlue,JFK,300
+AAL401,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+NKS154,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+SWA391,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+NKS929,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+DAL358,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL918,UAL,B757,2007,Wide,United Airlines,ORD,850
+AAL859,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+DAL101,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+UAL516,UAL,B757,2010,Wide,United Airlines,ORD,850
+AAL893,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+JBU259,JBU,A321,2007,Wide,JetBlue,JFK,300
+UAL482,UAL,B757,2009,Wide,United Airlines,ORD,850
+SWA302,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+NKS101,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+SWA790,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+FFT176,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+NKS901,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+DAL939,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+UAL638,UAL,B757,2007,Wide,United Airlines,ORD,850
+DAL230,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+FFT732,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+AAL844,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+AAL467,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+NKS982,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+SWA983,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+FFT500,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL582,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+SWA729,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+JBU743,JBU,A321,2015,Wide,JetBlue,JFK,300
+SWA270,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU663,JBU,A321,2011,Wide,JetBlue,JFK,300
+AAL490,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+NKS599,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL850,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+FFT990,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+JBU220,JBU,A321,2018,Wide,JetBlue,JFK,300
+DAL843,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+AAL506,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+JBU289,JBU,A321,2011,Wide,JetBlue,JFK,300
+SWA677,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+UAL429,UAL,B757,2012,Wide,United Airlines,ORD,850
+SWA695,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+UAL952,UAL,B757,2014,Wide,United Airlines,ORD,850
+UAL163,UAL,B757,2009,Wide,United Airlines,ORD,850
+SWA485,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+UAL106,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS593,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+UAL297,UAL,B757,2016,Wide,United Airlines,ORD,850
+AAL774,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU958,JBU,A321,2010,Wide,JetBlue,JFK,300
+SWA970,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+NKS303,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+JBU877,JBU,A321,2018,Wide,JetBlue,JFK,300
+UAL220,UAL,B757,2012,Wide,United Airlines,ORD,850
+AAL742,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+JBU416,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU681,JBU,A321,2008,Wide,JetBlue,JFK,300
+JBU109,JBU,A321,2010,Wide,JetBlue,JFK,300
+JBU737,JBU,A321,2017,Wide,JetBlue,JFK,300
+JBU716,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL127,UAL,B757,2012,Wide,United Airlines,ORD,850
+UAL522,UAL,B757,2015,Wide,United Airlines,ORD,850
+FFT254,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+AAL752,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+NKS983,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+DAL191,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+UAL358,UAL,B757,2020,Wide,United Airlines,ORD,850
+AAL446,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+JBU455,JBU,A321,2018,Wide,JetBlue,JFK,300
+JBU629,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL292,UAL,B757,2009,Wide,United Airlines,ORD,850
+UAL273,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA581,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+FFT914,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+AAL208,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+DAL697,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+SWA923,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+JBU368,JBU,A321,2020,Wide,JetBlue,JFK,300
+JBU875,JBU,A321,2016,Wide,JetBlue,JFK,300
+JBU892,JBU,A321,2008,Wide,JetBlue,JFK,300
+FFT720,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL412,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+JBU233,JBU,A321,2005,Wide,JetBlue,JFK,300
+DAL688,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+FFT161,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+JBU157,JBU,A321,2006,Wide,JetBlue,JFK,300
+AAL894,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+UAL621,UAL,B757,2007,Wide,United Airlines,ORD,850
+JBU228,JBU,A321,2016,Wide,JetBlue,JFK,300
+AAL602,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+JBU324,JBU,A321,2011,Wide,JetBlue,JFK,300
+FFT163,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+DAL641,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+DAL345,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+NKS275,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL672,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+FFT455,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+DAL810,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA960,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+FFT895,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+FFT550,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+NKS799,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+DAL653,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+FFT445,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL953,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+SWA354,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+UAL267,UAL,B757,2008,Wide,United Airlines,ORD,850
+NKS514,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+FFT444,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+NKS488,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+JBU295,JBU,A321,2014,Wide,JetBlue,JFK,300
+JBU265,JBU,A321,2007,Wide,JetBlue,JFK,300
+AAL178,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+JBU696,JBU,A321,2005,Wide,JetBlue,JFK,300
+UAL583,UAL,B757,2014,Wide,United Airlines,ORD,850
+UAL820,UAL,B757,2013,Wide,United Airlines,ORD,850
+UAL406,UAL,B757,2008,Wide,United Airlines,ORD,850
+DAL181,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+UAL228,UAL,B757,2009,Wide,United Airlines,ORD,850
+FFT241,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+AAL268,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+NKS970,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+DAL698,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+DAL278,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+SWA304,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+UAL919,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL424,UAL,B757,2009,Wide,United Airlines,ORD,850
+SWA108,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+SWA806,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+NKS128,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+SWA639,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+AAL729,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+FFT383,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+FFT483,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+AAL701,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+UAL699,UAL,B757,2018,Wide,United Airlines,ORD,850
+DAL870,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA995,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+NKS613,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+NKS487,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+FFT779,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+NKS869,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+AAL854,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+FFT195,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA278,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+DAL501,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL953,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL378,UAL,B757,2009,Wide,United Airlines,ORD,850
+SWA643,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+JBU204,JBU,A321,2016,Wide,JetBlue,JFK,300
+DAL242,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+JBU522,JBU,A321,2009,Wide,JetBlue,JFK,300
+SWA135,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+AAL566,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+UAL193,UAL,B757,2021,Wide,United Airlines,ORD,850
+UAL160,UAL,B757,2015,Wide,United Airlines,ORD,850
+SWA539,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+FFT373,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+SWA855,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+NKS433,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+SWA878,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+JBU252,JBU,A321,2005,Wide,JetBlue,JFK,300
+UAL230,UAL,B757,2014,Wide,United Airlines,ORD,850
+DAL878,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+UAL593,UAL,B757,2009,Wide,United Airlines,ORD,850
+DAL950,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+AAL966,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+JBU566,JBU,A321,2015,Wide,JetBlue,JFK,300
+AAL998,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+DAL553,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL605,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+DAL507,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+SWA459,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+UAL874,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU579,JBU,A321,2010,Wide,JetBlue,JFK,300
+JBU280,JBU,A321,2017,Wide,JetBlue,JFK,300
+DAL567,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+NKS550,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+FFT690,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+FFT510,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+AAL406,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+UAL760,UAL,B757,2009,Wide,United Airlines,ORD,850
+SWA751,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+DAL721,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+FFT131,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA661,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL460,UAL,B757,2010,Wide,United Airlines,ORD,850
+JBU574,JBU,A321,2016,Wide,JetBlue,JFK,300
+JBU519,JBU,A321,2010,Wide,JetBlue,JFK,300
+SWA287,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+JBU761,JBU,A321,2017,Wide,JetBlue,JFK,300
+JBU688,JBU,A321,2006,Wide,JetBlue,JFK,300
+DAL813,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+DAL370,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL857,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+DAL440,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+JBU251,JBU,A321,2019,Wide,JetBlue,JFK,300
+FFT887,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+DAL711,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+AAL842,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+FFT907,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+FFT961,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+NKS546,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+NKS356,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+NKS553,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+DAL603,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+NKS766,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+SWA300,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+AAL909,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL505,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+FFT741,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+JBU711,JBU,A321,2017,Wide,JetBlue,JFK,300
+FFT715,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+FFT177,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+FFT985,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+UAL306,UAL,B757,2016,Wide,United Airlines,ORD,850
+FFT901,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+UAL577,UAL,B757,2010,Wide,United Airlines,ORD,850
+SWA175,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+NKS759,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU726,JBU,A321,2021,Wide,JetBlue,JFK,300
+NKS607,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL331,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+JBU839,JBU,A321,2019,Wide,JetBlue,JFK,300
+SWA712,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+SWA990,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+UAL235,UAL,B757,2010,Wide,United Airlines,ORD,850
+AAL534,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+NKS570,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+SWA792,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+UAL446,UAL,B757,2005,Wide,United Airlines,ORD,850
+AAL753,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+DAL211,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+NKS390,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+SWA805,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL367,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+SWA452,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+FFT189,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+NKS756,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+FFT530,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+FFT813,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+SWA895,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+AAL891,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+UAL713,UAL,B757,2016,Wide,United Airlines,ORD,850
+NKS920,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+SWA109,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+UAL484,UAL,B757,2011,Wide,United Airlines,ORD,850
+FFT540,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+SWA233,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+FFT727,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+DAL165,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+NKS646,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+UAL556,UAL,B757,2014,Wide,United Airlines,ORD,850
+NKS156,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+FFT793,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+AAL649,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+NKS604,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+NKS291,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+JBU992,JBU,A321,2014,Wide,JetBlue,JFK,300
+NKS486,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+SWA384,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+FFT203,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+FFT790,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+SWA587,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU841,JBU,A321,2020,Wide,JetBlue,JFK,300
+UAL354,UAL,B757,2010,Wide,United Airlines,ORD,850
+DAL924,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+JBU684,JBU,A321,2006,Wide,JetBlue,JFK,300
+UAL466,UAL,B757,2014,Wide,United Airlines,ORD,850
+JBU952,JBU,A321,2011,Wide,JetBlue,JFK,300
+UAL156,UAL,B757,2021,Wide,United Airlines,ORD,850
+JBU709,JBU,A321,2009,Wide,JetBlue,JFK,300
+NKS122,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+UAL550,UAL,B757,2007,Wide,United Airlines,ORD,850
+NKS146,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+DAL188,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+SWA914,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+DAL767,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+DAL934,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU831,JBU,A321,2013,Wide,JetBlue,JFK,300
+SWA224,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+NKS928,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+NKS947,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+SWA394,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+AAL370,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+AAL710,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+UAL748,UAL,B757,2006,Wide,United Airlines,ORD,850
+NKS918,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+NKS498,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+UAL964,UAL,B757,2016,Wide,United Airlines,ORD,850
+NKS407,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+FFT888,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+FFT702,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+FFT657,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+AAL429,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+DAL313,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+FFT512,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+AAL672,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+NKS211,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+FFT971,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+AAL405,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+JBU330,JBU,A321,2006,Wide,JetBlue,JFK,300
+AAL703,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+UAL464,UAL,B757,2020,Wide,United Airlines,ORD,850
+DAL552,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+AAL948,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+DAL682,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+NKS278,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+SWA858,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+FFT866,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+UAL725,UAL,B757,2012,Wide,United Airlines,ORD,850
+JBU257,JBU,A321,2019,Wide,JetBlue,JFK,300
+NKS526,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+FFT933,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+FFT290,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+SWA885,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL485,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+SWA221,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+SWA197,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+FFT904,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+FFT511,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA572,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+JBU142,JBU,A321,2021,Wide,JetBlue,JFK,300
+UAL312,UAL,B757,2018,Wide,United Airlines,ORD,850
+FFT285,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+NKS417,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+UAL846,UAL,B757,2015,Wide,United Airlines,ORD,850
+DAL687,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+SWA443,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+NKS198,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+FFT233,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+NKS702,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+JBU334,JBU,A321,2016,Wide,JetBlue,JFK,300
+UAL390,UAL,B757,2017,Wide,United Airlines,ORD,850
+NKS954,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+NKS862,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+NKS155,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+UAL126,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU964,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU546,JBU,A321,2021,Wide,JetBlue,JFK,300
+NKS615,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+SWA347,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+DAL961,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+AAL647,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+JBU996,JBU,A321,2005,Wide,JetBlue,JFK,300
+FFT556,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+SWA204,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+NKS574,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU502,JBU,A321,2009,Wide,JetBlue,JFK,300
+UAL754,UAL,B757,2016,Wide,United Airlines,ORD,850
+FFT113,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+JBU114,JBU,A321,2008,Wide,JetBlue,JFK,300
+JBU633,JBU,A321,2011,Wide,JetBlue,JFK,300
+SWA991,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+DAL194,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA303,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+DAL340,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+AAL320,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+NKS728,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+FFT212,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+NKS408,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+AAL654,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT687,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL289,UAL,B757,2016,Wide,United Airlines,ORD,850
+DAL995,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+SWA763,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+SWA316,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL326,UAL,B757,2015,Wide,United Airlines,ORD,850
+UAL256,UAL,B757,2019,Wide,United Airlines,ORD,850
+AAL276,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+UAL591,UAL,B757,2006,Wide,United Airlines,ORD,850
+JBU683,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL552,UAL,B757,2009,Wide,United Airlines,ORD,850
+JBU847,JBU,A321,2005,Wide,JetBlue,JFK,300
+JBU580,JBU,A321,2009,Wide,JetBlue,JFK,300
+AAL420,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+NKS589,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+JBU304,JBU,A321,2005,Wide,JetBlue,JFK,300
+AAL235,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+NKS914,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+JBU787,JBU,A321,2017,Wide,JetBlue,JFK,300
+UAL816,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU201,JBU,A321,2011,Wide,JetBlue,JFK,300
+NKS234,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+NKS736,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+JBU823,JBU,A321,2007,Wide,JetBlue,JFK,300
+SWA901,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+DAL520,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+AAL236,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+FFT844,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+UAL342,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL917,UAL,B757,2013,Wide,United Airlines,ORD,850
+DAL814,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+JBU208,JBU,A321,2017,Wide,JetBlue,JFK,300
+DAL888,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+FFT249,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+DAL118,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+FFT897,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+JBU263,JBU,A321,2007,Wide,JetBlue,JFK,300
+SWA308,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA813,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+JBU890,JBU,A321,2007,Wide,JetBlue,JFK,300
+FFT100,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+SWA796,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+SWA298,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+DAL946,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+UAL837,UAL,B757,2013,Wide,United Airlines,ORD,850
+AAL212,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+AAL132,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+AAL169,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+AAL183,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+DAL475,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+SWA523,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+AAL379,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+DAL912,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+JBU127,JBU,A321,2012,Wide,JetBlue,JFK,300
+FFT936,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+SWA957,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+UAL180,UAL,B757,2017,Wide,United Airlines,ORD,850
+JBU699,JBU,A321,2007,Wide,JetBlue,JFK,300
+DAL982,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+NKS472,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+AAL287,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+AAL463,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL915,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+JBU713,JBU,A321,2010,Wide,JetBlue,JFK,300
+SWA220,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+NKS617,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+FFT600,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+AAL530,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL489,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+FFT194,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+FFT869,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL508,UAL,B757,2014,Wide,United Airlines,ORD,850
+JBU194,JBU,A321,2012,Wide,JetBlue,JFK,300
+JBU564,JBU,A321,2021,Wide,JetBlue,JFK,300
+UAL439,UAL,B757,2013,Wide,United Airlines,ORD,850
+DAL875,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+AAL829,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+DAL626,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+AAL814,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+NKS402,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL144,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+NKS590,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+FFT573,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+DAL528,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+UAL149,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL471,UAL,B757,2020,Wide,United Airlines,ORD,850
+DAL219,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+UAL942,UAL,B757,2007,Wide,United Airlines,ORD,850
+AAL637,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+UAL382,UAL,B757,2013,Wide,United Airlines,ORD,850
+SWA370,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL899,UAL,B757,2012,Wide,United Airlines,ORD,850
+SWA290,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+JBU768,JBU,A321,2010,Wide,JetBlue,JFK,300
+AAL223,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+NKS899,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+DAL472,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+FFT634,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+JBU690,JBU,A321,2016,Wide,JetBlue,JFK,300
+JBU526,JBU,A321,2007,Wide,JetBlue,JFK,300
+UAL237,UAL,B757,2005,Wide,United Airlines,ORD,850
+UAL598,UAL,B757,2012,Wide,United Airlines,ORD,850
+UAL884,UAL,B757,2020,Wide,United Airlines,ORD,850
+DAL125,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+SWA704,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+NKS220,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+UAL184,UAL,B757,2019,Wide,United Airlines,ORD,850
+NKS726,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+SWA161,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+SWA427,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+DAL862,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+AAL258,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+FFT542,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU520,JBU,A321,2013,Wide,JetBlue,JFK,300
+NKS568,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+UAL421,UAL,B757,2021,Wide,United Airlines,ORD,850
+NKS249,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+FFT407,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+NKS338,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+JBU632,JBU,A321,2013,Wide,JetBlue,JFK,300
+FFT818,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+AAL298,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+UAL504,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL331,UAL,B757,2006,Wide,United Airlines,ORD,850
+JBU446,JBU,A321,2017,Wide,JetBlue,JFK,300
+UAL206,UAL,B757,2011,Wide,United Airlines,ORD,850
+DAL154,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+DAL541,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+NKS466,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+AAL822,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+JBU667,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL202,UAL,B757,2011,Wide,United Airlines,ORD,850
+UAL545,UAL,B757,2018,Wide,United Airlines,ORD,850
+DAL513,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+NKS449,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL480,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+SWA552,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+FFT514,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL703,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+NKS493,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+FFT561,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+UAL693,UAL,B757,2012,Wide,United Airlines,ORD,850
+DAL519,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+AAL792,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+JBU338,JBU,A321,2017,Wide,JetBlue,JFK,300
+AAL907,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+SWA357,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+AAL692,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+SWA249,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+DAL699,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+JBU275,JBU,A321,2006,Wide,JetBlue,JFK,300
+SWA334,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+AAL650,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL174,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+SWA526,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+NKS579,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+FFT338,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+NKS335,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+UAL103,UAL,B757,2017,Wide,United Airlines,ORD,850
+FFT879,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+SWA808,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+NKS631,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+JBU742,JBU,A321,2007,Wide,JetBlue,JFK,300
+FFT152,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+JBU388,JBU,A321,2005,Wide,JetBlue,JFK,300
+UAL747,UAL,B757,2020,Wide,United Airlines,ORD,850
+UAL821,UAL,B757,2018,Wide,United Airlines,ORD,850
+FFT538,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+FFT120,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+JBU378,JBU,A321,2020,Wide,JetBlue,JFK,300
+FFT937,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+NKS387,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+UAL642,UAL,B757,2019,Wide,United Airlines,ORD,850
+DAL131,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+SWA274,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU720,JBU,A321,2016,Wide,JetBlue,JFK,300
+NKS717,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+NKS119,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL362,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+NKS887,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+AAL423,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+FFT253,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+AAL828,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+AAL661,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+NKS624,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+FFT515,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+AAL628,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL195,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+UAL212,UAL,B757,2019,Wide,United Airlines,ORD,850
+JBU531,JBU,A321,2010,Wide,JetBlue,JFK,300
+DAL955,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+JBU143,JBU,A321,2019,Wide,JetBlue,JFK,300
+AAL226,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+FFT105,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+DAL184,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+JBU687,JBU,A321,2020,Wide,JetBlue,JFK,300
+JBU933,JBU,A321,2014,Wide,JetBlue,JFK,300
+AAL986,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+JBU498,JBU,A321,2008,Wide,JetBlue,JFK,300
+FFT935,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+NKS753,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+FFT438,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+FFT209,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+NKS839,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+DAL608,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+UAL590,UAL,B757,2007,Wide,United Airlines,ORD,850
+NKS478,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+AAL706,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+AAL491,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+FFT229,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+JBU980,JBU,A321,2020,Wide,JetBlue,JFK,300
+SWA604,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+AAL486,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+DAL300,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+AAL511,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+SWA547,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+DAL729,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+JBU552,JBU,A321,2017,Wide,JetBlue,JFK,300
+FFT541,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+FFT232,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+UAL765,UAL,B757,2015,Wide,United Airlines,ORD,850
+DAL115,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+UAL842,UAL,B757,2007,Wide,United Airlines,ORD,850
+AAL596,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+FFT939,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+FFT118,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+JBU991,JBU,A321,2018,Wide,JetBlue,JFK,300
+SWA607,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+SWA623,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+AAL555,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+DAL132,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+NKS238,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+FFT930,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+NKS309,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+SWA431,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+JBU922,JBU,A321,2017,Wide,JetBlue,JFK,300
+NKS398,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+FFT701,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+AAL216,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+UAL435,UAL,B757,2014,Wide,United Airlines,ORD,850
+NKS521,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+JBU950,JBU,A321,2013,Wide,JetBlue,JFK,300
+NKS451,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+NKS243,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL568,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+SWA498,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+NKS482,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+NKS965,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+JBU433,JBU,A321,2015,Wide,JetBlue,JFK,300
+FFT755,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU848,JBU,A321,2006,Wide,JetBlue,JFK,300
+AAL571,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+DAL613,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+DAL232,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+UAL741,UAL,B757,2012,Wide,United Airlines,ORD,850
+DAL185,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+UAL195,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU549,JBU,A321,2019,Wide,JetBlue,JFK,300
+DAL160,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+FFT862,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+AAL756,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+NKS194,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+NKS921,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+FFT576,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+DAL347,DAL,A320,2014,Narrow,Delta Air Lines,ATL,900
+NKS656,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+SWA216,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+DAL910,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+NKS163,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+JBU514,JBU,A321,2020,Wide,JetBlue,JFK,300
+UAL839,UAL,B757,2015,Wide,United Airlines,ORD,850
+UAL595,UAL,B757,2005,Wide,United Airlines,ORD,850
+JBU818,JBU,A321,2017,Wide,JetBlue,JFK,300
+NKS963,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+DAL983,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+NKS280,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+NKS157,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+NKS780,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+NKS501,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+UAL700,UAL,B757,2017,Wide,United Airlines,ORD,850
+FFT770,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+JBU697,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU116,JBU,A321,2010,Wide,JetBlue,JFK,300
+NKS490,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+FFT941,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+SWA551,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+FFT713,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL266,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+NKS610,NKS,A319,2011,Narrow,Spirit Airlines,FLL,250
+AAL288,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+SWA679,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+UAL368,UAL,B757,2011,Wide,United Airlines,ORD,850
+DAL189,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+FFT931,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+AAL864,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+NKS313,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+AAL684,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU960,JBU,A321,2021,Wide,JetBlue,JFK,300
+DAL967,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+UAL111,UAL,B757,2011,Wide,United Airlines,ORD,850
+JBU802,JBU,A321,2019,Wide,JetBlue,JFK,300
+UAL560,UAL,B757,2018,Wide,United Airlines,ORD,850
+DAL386,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+FFT568,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+AAL348,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+FFT108,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+JBU149,JBU,A321,2021,Wide,JetBlue,JFK,300
+AAL215,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+NKS657,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+JBU731,JBU,A321,2009,Wide,JetBlue,JFK,300
+NKS441,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+UAL430,UAL,B757,2014,Wide,United Airlines,ORD,850
+AAL866,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+NKS804,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+UAL154,UAL,B757,2010,Wide,United Airlines,ORD,850
+FFT300,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+AAL192,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+FFT944,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+NKS448,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+UAL172,UAL,B757,2008,Wide,United Airlines,ORD,850
+AAL691,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+NKS153,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+DAL150,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+DAL508,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+UAL329,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA322,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+AAL950,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+NKS594,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+AAL549,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+UAL731,UAL,B757,2016,Wide,United Airlines,ORD,850
+FFT311,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+JBU842,JBU,A321,2011,Wide,JetBlue,JFK,300
+UAL666,UAL,B757,2011,Wide,United Airlines,ORD,850
+FFT597,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+UAL589,UAL,B757,2007,Wide,United Airlines,ORD,850
+JBU814,JBU,A321,2016,Wide,JetBlue,JFK,300
+JBU317,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU714,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL965,UAL,B757,2021,Wide,United Airlines,ORD,850
+AAL255,AAL,B737-800,2019,Narrow,American Airlines,DFW,950
+NKS611,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+JBU512,JBU,A321,2012,Wide,JetBlue,JFK,300
+FFT608,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+NKS114,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+FFT792,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+FFT986,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+SWA992,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+AAL935,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+FFT611,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+DAL848,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+UAL762,UAL,B757,2020,Wide,United Airlines,ORD,850
+DAL341,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+JBU685,JBU,A321,2005,Wide,JetBlue,JFK,300
+NKS767,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+SWA569,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+JBU437,JBU,A321,2013,Wide,JetBlue,JFK,300
+AAL584,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU260,JBU,A321,2008,Wide,JetBlue,JFK,300
+SWA741,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA235,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+NKS616,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+JBU873,JBU,A321,2007,Wide,JetBlue,JFK,300
+DAL364,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+SWA888,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+AAL318,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU955,JBU,A321,2021,Wide,JetBlue,JFK,300
+FFT217,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+JBU967,JBU,A321,2011,Wide,JetBlue,JFK,300
+UAL187,UAL,B757,2009,Wide,United Airlines,ORD,850
+JBU162,JBU,A321,2018,Wide,JetBlue,JFK,300
+UAL137,UAL,B757,2008,Wide,United Airlines,ORD,850
+AAL599,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+FFT459,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU803,JBU,A321,2005,Wide,JetBlue,JFK,300
+AAL808,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+DAL917,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+JBU211,JBU,A321,2018,Wide,JetBlue,JFK,300
+JBU617,JBU,A321,2013,Wide,JetBlue,JFK,300
+AAL669,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+NKS974,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+FFT447,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+JBU171,JBU,A321,2007,Wide,JetBlue,JFK,300
+DAL731,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+AAL111,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+UAL188,UAL,B757,2019,Wide,United Airlines,ORD,850
+DAL976,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+NKS319,NKS,A319,2009,Narrow,Spirit Airlines,FLL,250
+AAL551,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+JBU800,JBU,A321,2021,Wide,JetBlue,JFK,300
+JBU182,JBU,A321,2008,Wide,JetBlue,JFK,300
+UAL637,UAL,B757,2013,Wide,United Airlines,ORD,850
+UAL983,UAL,B757,2005,Wide,United Airlines,ORD,850
+AAL141,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+DAL554,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL888,UAL,B757,2019,Wide,United Airlines,ORD,850
+UAL254,UAL,B757,2011,Wide,United Airlines,ORD,850
+SWA183,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+FFT405,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+FFT710,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+SWA768,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL220,DAL,A320,2008,Narrow,Delta Air Lines,ATL,900
+SWA209,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+JBU881,JBU,A321,2006,Wide,JetBlue,JFK,300
+NKS247,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+DAL720,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+DAL905,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+DAL709,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+NKS401,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+UAL416,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL425,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA252,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+UAL555,UAL,B757,2011,Wide,United Airlines,ORD,850
+FFT814,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+UAL973,UAL,B757,2014,Wide,United Airlines,ORD,850
+FFT748,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+UAL168,UAL,B757,2005,Wide,United Airlines,ORD,850
+UAL695,UAL,B757,2009,Wide,United Airlines,ORD,850
+DAL145,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+SWA417,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU641,JBU,A321,2007,Wide,JetBlue,JFK,300
+UAL540,UAL,B757,2011,Wide,United Airlines,ORD,850
+FFT671,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+UAL448,UAL,B757,2010,Wide,United Airlines,ORD,850
+NKS969,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+JBU492,JBU,A321,2015,Wide,JetBlue,JFK,300
+NKS266,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+DAL562,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+NKS289,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+JBU567,JBU,A321,2021,Wide,JetBlue,JFK,300
+UAL804,UAL,B757,2018,Wide,United Airlines,ORD,850
+DAL820,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+UAL478,UAL,B757,2006,Wide,United Airlines,ORD,850
+FFT206,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+SWA281,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+NKS344,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+NKS698,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+FFT729,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+DAL371,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+AAL353,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU626,JBU,A321,2005,Wide,JetBlue,JFK,300
+DAL821,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+NKS333,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+FFT415,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+SWA310,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+AAL548,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+DAL926,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+DAL466,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+SWA128,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL125,UAL,B757,2014,Wide,United Airlines,ORD,850
+AAL469,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+AAL144,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+JBU524,JBU,A321,2007,Wide,JetBlue,JFK,300
+JBU530,JBU,A321,2016,Wide,JetBlue,JFK,300
+NKS263,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+NKS382,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+JBU273,JBU,A321,2021,Wide,JetBlue,JFK,300
+AAL816,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+FFT722,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+NKS218,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+FFT339,FFT,A320neo,2018,Narrow,Frontier Airlines,DEN,200
+AAL403,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+DAL217,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+FFT756,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+AAL457,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+AAL802,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+UAL293,UAL,B757,2016,Wide,United Airlines,ORD,850
+FFT507,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+JBU153,JBU,A321,2013,Wide,JetBlue,JFK,300
+FFT423,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+JBU193,JBU,A321,2014,Wide,JetBlue,JFK,300
+JBU209,JBU,A321,2013,Wide,JetBlue,JFK,300
+JBU192,JBU,A321,2012,Wide,JetBlue,JFK,300
+SWA719,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+SWA142,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+SWA461,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+NKS143,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+SWA352,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+JBU919,JBU,A321,2013,Wide,JetBlue,JFK,300
+NKS484,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+AAL578,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+AAL727,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+AAL230,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+FFT766,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+FFT458,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+NKS690,NKS,A319,2014,Narrow,Spirit Airlines,FLL,250
+JBU112,JBU,A321,2010,Wide,JetBlue,JFK,300
+UAL799,UAL,B757,2013,Wide,United Airlines,ORD,850
+FFT392,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+FFT263,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+FFT849,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+UAL533,UAL,B757,2016,Wide,United Airlines,ORD,850
+AAL707,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+SWA736,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+UAL253,UAL,B757,2018,Wide,United Airlines,ORD,850
+SWA563,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+DAL215,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+NKS348,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+NKS732,NKS,A319,2019,Narrow,Spirit Airlines,FLL,250
+NKS619,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+NKS172,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL138,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+FFT876,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+SWA978,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+FFT886,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+SWA283,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+JBU573,JBU,A321,2005,Wide,JetBlue,JFK,300
+JBU387,JBU,A321,2006,Wide,JetBlue,JFK,300
+UAL834,UAL,B757,2008,Wide,United Airlines,ORD,850
+DAL911,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+AAL436,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+DAL825,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+AAL484,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+SWA900,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+SWA980,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+UAL547,UAL,B757,2015,Wide,United Airlines,ORD,850
+JBU910,JBU,A321,2010,Wide,JetBlue,JFK,300
+NKS638,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+FFT210,FFT,A320neo,2014,Narrow,Frontier Airlines,DEN,200
+SWA258,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL853,UAL,B757,2021,Wide,United Airlines,ORD,850
+JBU138,JBU,A321,2009,Wide,JetBlue,JFK,300
+DAL565,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+DAL790,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+JBU527,JBU,A321,2009,Wide,JetBlue,JFK,300
+DAL730,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+JBU995,JBU,A321,2013,Wide,JetBlue,JFK,300
+SWA146,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+DAL463,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+SWA162,SWA,B737-MAX,2016,Narrow,Southwest Airlines,DAL,700
+UAL774,UAL,B757,2019,Wide,United Airlines,ORD,850
+JBU871,JBU,A321,2017,Wide,JetBlue,JFK,300
+DAL492,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL927,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+AAL346,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+NKS585,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+FFT431,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+DAL102,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+JBU223,JBU,A321,2013,Wide,JetBlue,JFK,300
+AAL206,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+UAL499,UAL,B757,2011,Wide,United Airlines,ORD,850
+NKS458,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+DAL890,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+UAL671,UAL,B757,2007,Wide,United Airlines,ORD,850
+JBU222,JBU,A321,2016,Wide,JetBlue,JFK,300
+SWA246,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+UAL131,UAL,B757,2017,Wide,United Airlines,ORD,850
+SWA257,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+DAL777,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+AAL202,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+DAL108,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+JBU990,JBU,A321,2014,Wide,JetBlue,JFK,300
+AAL869,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+FFT354,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+UAL580,UAL,B757,2006,Wide,United Airlines,ORD,850
+FFT330,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+SWA689,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL705,UAL,B757,2015,Wide,United Airlines,ORD,850
+FFT676,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+SWA268,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+AAL193,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+JBU402,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL835,UAL,B757,2018,Wide,United Airlines,ORD,850
+UAL101,UAL,B757,2010,Wide,United Airlines,ORD,850
+DAL643,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+SWA186,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+JBU665,JBU,A321,2007,Wide,JetBlue,JFK,300
+FFT745,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+UAL434,UAL,B757,2012,Wide,United Airlines,ORD,850
+AAL892,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+UAL458,UAL,B757,2021,Wide,United Airlines,ORD,850
+AAL873,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+NKS549,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+SWA277,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+AAL560,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+UAL441,UAL,B757,2021,Wide,United Airlines,ORD,850
+DAL914,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+JBU547,JBU,A321,2018,Wide,JetBlue,JFK,300
+UAL901,UAL,B757,2005,Wide,United Airlines,ORD,850
+DAL522,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+FFT925,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+NKS689,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+AAL527,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+FFT809,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+DAL533,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+FFT863,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+SWA655,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+UAL554,UAL,B757,2019,Wide,United Airlines,ORD,850
+JBU676,JBU,A321,2016,Wide,JetBlue,JFK,300
+SWA255,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+UAL576,UAL,B757,2015,Wide,United Airlines,ORD,850
+FFT992,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+DAL460,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+AAL124,AAL,B737-800,2011,Narrow,American Airlines,DFW,950
+AAL936,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+UAL236,UAL,B757,2014,Wide,United Airlines,ORD,850
+JBU364,JBU,A321,2014,Wide,JetBlue,JFK,300
+FFT799,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+FFT920,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU946,JBU,A321,2007,Wide,JetBlue,JFK,300
+UAL781,UAL,B757,2020,Wide,United Airlines,ORD,850
+FFT837,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+DAL794,DAL,A320,2007,Narrow,Delta Air Lines,ATL,900
+AAL713,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+FFT651,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+JBU348,JBU,A321,2016,Wide,JetBlue,JFK,300
+DAL437,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+SWA753,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+SWA971,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+SWA624,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+UAL201,UAL,B757,2010,Wide,United Airlines,ORD,850
+SWA784,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+UAL535,UAL,B757,2005,Wide,United Airlines,ORD,850
+NKS455,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+DAL636,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+FFT433,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+UAL340,UAL,B757,2021,Wide,United Airlines,ORD,850
+AAL718,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+AAL912,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+UAL549,UAL,B757,2007,Wide,United Airlines,ORD,850
+SWA731,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+FFT606,FFT,A320neo,2020,Narrow,Frontier Airlines,DEN,200
+NKS931,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+UAL644,UAL,B757,2010,Wide,United Airlines,ORD,850
+SWA737,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+SWA648,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+JBU730,JBU,A321,2019,Wide,JetBlue,JFK,300
+FFT434,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+UAL454,UAL,B757,2021,Wide,United Airlines,ORD,850
+DAL630,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA336,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+SWA344,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+UAL863,UAL,B757,2006,Wide,United Airlines,ORD,850
+FFT773,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU203,JBU,A321,2021,Wide,JetBlue,JFK,300
+SWA131,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+JBU258,JBU,A321,2005,Wide,JetBlue,JFK,300
+AAL351,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+FFT903,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA641,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+DAL510,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+UAL718,UAL,B757,2020,Wide,United Airlines,ORD,850
+UAL739,UAL,B757,2007,Wide,United Airlines,ORD,850
+FFT126,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+NKS936,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+JBU501,JBU,A321,2007,Wide,JetBlue,JFK,300
+DAL114,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+AAL838,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+JBU320,JBU,A321,2016,Wide,JetBlue,JFK,300
+SWA505,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+AAL716,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+DAL157,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+DAL988,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+FFT403,FFT,A320neo,2013,Narrow,Frontier Airlines,DEN,200
+JBU834,JBU,A321,2008,Wide,JetBlue,JFK,300
+NKS678,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+SWA798,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+SWA423,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+JBU536,JBU,A321,2007,Wide,JetBlue,JFK,300
+NKS694,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+JBU569,JBU,A321,2005,Wide,JetBlue,JFK,300
+SWA565,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+UAL291,UAL,B757,2006,Wide,United Airlines,ORD,850
+FFT453,FFT,A320neo,2012,Narrow,Frontier Airlines,DEN,200
+NKS765,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+NKS675,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+AAL449,AAL,B737-800,2012,Narrow,American Airlines,DFW,950
+DAL846,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+JBU942,JBU,A321,2017,Wide,JetBlue,JFK,300
+UAL728,UAL,B757,2005,Wide,United Airlines,ORD,850
+FFT684,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA571,SWA,B737-MAX,2008,Narrow,Southwest Airlines,DAL,700
+NKS320,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+NKS605,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+JBU840,JBU,A321,2007,Wide,JetBlue,JFK,300
+FFT110,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+AAL823,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+UAL819,UAL,B757,2011,Wide,United Airlines,ORD,850
+AAL625,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+FFT719,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+SWA903,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+AAL569,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+DAL547,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU745,JBU,A321,2006,Wide,JetBlue,JFK,300
+UAL136,UAL,B757,2020,Wide,United Airlines,ORD,850
+SWA311,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+AAL234,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+JBU287,JBU,A321,2021,Wide,JetBlue,JFK,300
+SWA951,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+SWA627,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL489,UAL,B757,2011,Wide,United Airlines,ORD,850
+DAL586,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+AAL336,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+AAL685,AAL,B737-800,2007,Narrow,American Airlines,DFW,950
+NKS149,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+AAL217,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+SWA125,SWA,B737-MAX,2011,Narrow,Southwest Airlines,DAL,700
+FFT153,FFT,A320neo,2010,Narrow,Frontier Airlines,DEN,200
+FFT700,FFT,A320neo,2007,Narrow,Frontier Airlines,DEN,200
+AAL831,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+JBU541,JBU,A321,2010,Wide,JetBlue,JFK,300
+NKS256,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+AAL897,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+JBU298,JBU,A321,2014,Wide,JetBlue,JFK,300
+UAL751,UAL,B757,2009,Wide,United Airlines,ORD,850
+UAL282,UAL,B757,2006,Wide,United Airlines,ORD,850
+SWA134,SWA,B737-MAX,2009,Narrow,Southwest Airlines,DAL,700
+JBU505,JBU,A321,2018,Wide,JetBlue,JFK,300
+FFT138,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+NKS790,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+SWA608,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+DAL404,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA117,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+JBU404,JBU,A321,2020,Wide,JetBlue,JFK,300
+UAL619,UAL,B757,2013,Wide,United Airlines,ORD,850
+AAL635,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+DAL485,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+UAL966,UAL,B757,2018,Wide,United Airlines,ORD,850
+JBU654,JBU,A321,2012,Wide,JetBlue,JFK,300
+FFT891,FFT,A320neo,2019,Narrow,Frontier Airlines,DEN,200
+SWA319,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+NKS485,NKS,A319,2005,Narrow,Spirit Airlines,FLL,250
+UAL363,UAL,B757,2017,Wide,United Airlines,ORD,850
+UAL436,UAL,B757,2018,Wide,United Airlines,ORD,850
+JBU939,JBU,A321,2013,Wide,JetBlue,JFK,300
+NKS422,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+SWA761,SWA,B737-MAX,2015,Narrow,Southwest Airlines,DAL,700
+AAL617,AAL,B737-800,2010,Narrow,American Airlines,DFW,950
+FFT361,FFT,A320neo,2009,Narrow,Frontier Airlines,DEN,200
+UAL796,UAL,B757,2011,Wide,United Airlines,ORD,850
+AAL386,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+SWA272,SWA,B737-MAX,2018,Narrow,Southwest Airlines,DAL,700
+NKS386,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+SWA945,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+UAL257,UAL,B757,2006,Wide,United Airlines,ORD,850
+SWA866,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+AAL929,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+DAL765,DAL,A320,2020,Narrow,Delta Air Lines,ATL,900
+SWA143,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+NKS306,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL378,DAL,A320,2015,Narrow,Delta Air Lines,ATL,900
+NKS990,NKS,A319,2010,Narrow,Spirit Airlines,FLL,250
+AAL271,AAL,B737-800,2008,Narrow,American Airlines,DFW,950
+FFT226,FFT,A320neo,2015,Narrow,Frontier Airlines,DEN,200
+JBU480,JBU,A321,2012,Wide,JetBlue,JFK,300
+NKS880,NKS,A319,2021,Narrow,Spirit Airlines,FLL,250
+AAL933,AAL,B737-800,2006,Narrow,American Airlines,DFW,950
+UAL510,UAL,B757,2014,Wide,United Airlines,ORD,850
+DAL451,DAL,A320,2019,Narrow,Delta Air Lines,ATL,900
+UAL295,UAL,B757,2019,Wide,United Airlines,ORD,850
+NKS586,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+DAL280,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+SWA530,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+NKS668,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+UAL639,UAL,B757,2013,Wide,United Airlines,ORD,850
+JBU843,JBU,A321,2009,Wide,JetBlue,JFK,300
+NKS353,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+SWA968,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+UAL322,UAL,B757,2017,Wide,United Airlines,ORD,850
+SWA369,SWA,B737-MAX,2013,Narrow,Southwest Airlines,DAL,700
+FFT896,FFT,A320neo,2008,Narrow,Frontier Airlines,DEN,200
+DAL871,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+DAL334,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+NKS173,NKS,A319,2007,Narrow,Spirit Airlines,FLL,250
+DAL952,DAL,A320,2009,Narrow,Delta Air Lines,ATL,900
+JBU812,JBU,A321,2015,Wide,JetBlue,JFK,300
+FFT693,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+DAL260,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+NKS775,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+JBU856,JBU,A321,2009,Wide,JetBlue,JFK,300
+JBU679,JBU,A321,2014,Wide,JetBlue,JFK,300
+SWA922,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+AAL944,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+FFT953,FFT,A320neo,2006,Narrow,Frontier Airlines,DEN,200
+JBU770,JBU,A321,2014,Wide,JetBlue,JFK,300
+DAL329,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+FFT585,FFT,A320neo,2005,Narrow,Frontier Airlines,DEN,200
+SWA979,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+SWA504,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+NKS809,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+AAL447,AAL,B737-800,2021,Narrow,American Airlines,DFW,950
+NKS358,NKS,A319,2006,Narrow,Spirit Airlines,FLL,250
+AAL736,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+DAL277,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+UAL772,UAL,B757,2009,Wide,United Airlines,ORD,850
+NKS219,NKS,A319,2015,Narrow,Spirit Airlines,FLL,250
+FFT900,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+AAL627,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+AAL563,AAL,B737-800,2013,Narrow,American Airlines,DFW,950
+JBU126,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL517,UAL,B757,2015,Wide,United Airlines,ORD,850
+NKS708,NKS,A319,2018,Narrow,Spirit Airlines,FLL,250
+FFT526,FFT,A320neo,2011,Narrow,Frontier Airlines,DEN,200
+SWA834,SWA,B737-MAX,2012,Narrow,Southwest Airlines,DAL,700
+DAL680,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+AAL607,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+DAL344,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+JBU826,JBU,A321,2012,Wide,JetBlue,JFK,300
+NKS552,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+UAL817,UAL,B757,2007,Wide,United Airlines,ORD,850
+JBU361,JBU,A321,2013,Wide,JetBlue,JFK,300
+UAL128,UAL,B757,2005,Wide,United Airlines,ORD,850
+JBU485,JBU,A321,2009,Wide,JetBlue,JFK,300
+JBU167,JBU,A321,2015,Wide,JetBlue,JFK,300
+UAL907,UAL,B757,2021,Wide,United Airlines,ORD,850
+JBU391,JBU,A321,2005,Wide,JetBlue,JFK,300
+NKS927,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+UAL388,UAL,B757,2020,Wide,United Airlines,ORD,850
+UAL722,UAL,B757,2006,Wide,United Airlines,ORD,850
+JBU885,JBU,A321,2021,Wide,JetBlue,JFK,300
+UAL432,UAL,B757,2017,Wide,United Airlines,ORD,850
+JBU234,JBU,A321,2019,Wide,JetBlue,JFK,300
+UAL444,UAL,B757,2016,Wide,United Airlines,ORD,850
+DAL348,DAL,A320,2016,Narrow,Delta Air Lines,ATL,900
+AAL954,AAL,B737-800,2018,Narrow,American Airlines,DFW,950
+UAL958,UAL,B757,2014,Wide,United Airlines,ORD,850
+JBU347,JBU,A321,2015,Wide,JetBlue,JFK,300
+NKS265,NKS,A319,2016,Narrow,Spirit Airlines,FLL,250
+UAL967,UAL,B757,2010,Wide,United Airlines,ORD,850
+DAL129,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+AAL770,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+SWA340,SWA,B737-MAX,2007,Narrow,Southwest Airlines,DAL,700
+DAL503,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+JBU460,JBU,A321,2014,Wide,JetBlue,JFK,300
+AAL779,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+UAL844,UAL,B757,2006,Wide,United Airlines,ORD,850
+AAL562,AAL,B737-800,2020,Narrow,American Airlines,DFW,950
+SWA419,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+DAL133,DAL,A320,2006,Narrow,Delta Air Lines,ATL,900
+AAL799,AAL,B737-800,2009,Narrow,American Airlines,DFW,950
+AAL688,AAL,B737-800,2014,Narrow,American Airlines,DFW,950
+FFT486,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+DAL321,DAL,A320,2012,Narrow,Delta Air Lines,ATL,900
+UAL954,UAL,B757,2018,Wide,United Airlines,ORD,850
+UAL380,UAL,B757,2007,Wide,United Airlines,ORD,850
+UAL327,UAL,B757,2013,Wide,United Airlines,ORD,850
+FFT566,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+SWA160,SWA,B737-MAX,2014,Narrow,Southwest Airlines,DAL,700
+DAL715,DAL,A320,2018,Narrow,Delta Air Lines,ATL,900
+FFT806,FFT,A320neo,2016,Narrow,Frontier Airlines,DEN,200
+JBU698,JBU,A321,2012,Wide,JetBlue,JFK,300
+JBU891,JBU,A321,2019,Wide,JetBlue,JFK,300
+SWA668,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+JBU838,JBU,A321,2015,Wide,JetBlue,JFK,300
+DAL800,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+SWA422,SWA,B737-MAX,2017,Narrow,Southwest Airlines,DAL,700
+SWA845,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+SWA566,SWA,B737-MAX,2019,Narrow,Southwest Airlines,DAL,700
+DAL164,DAL,A320,2005,Narrow,Delta Air Lines,ATL,900
+AAL284,AAL,B737-800,2017,Narrow,American Airlines,DFW,950
+FFT908,FFT,A320neo,2017,Narrow,Frontier Airlines,DEN,200
+DAL303,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900
+SWA852,SWA,B737-MAX,2006,Narrow,Southwest Airlines,DAL,700
+SWA831,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+JBU916,JBU,A321,2005,Wide,JetBlue,JFK,300
+DAL760,DAL,A320,2010,Narrow,Delta Air Lines,ATL,900
+AAL722,AAL,B737-800,2016,Narrow,American Airlines,DFW,950
+NKS772,NKS,A319,2020,Narrow,Spirit Airlines,FLL,250
+DAL755,DAL,A320,2017,Narrow,Delta Air Lines,ATL,900
+JBU196,JBU,A321,2012,Wide,JetBlue,JFK,300
+UAL412,UAL,B757,2015,Wide,United Airlines,ORD,850
+JBU232,JBU,A321,2016,Wide,JetBlue,JFK,300
+SWA708,SWA,B737-MAX,2010,Narrow,Southwest Airlines,DAL,700
+NKS244,NKS,A319,2013,Narrow,Spirit Airlines,FLL,250
+AAL791,AAL,B737-800,2015,Narrow,American Airlines,DFW,950
+NKS911,NKS,A319,2008,Narrow,Spirit Airlines,FLL,250
+SWA755,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+SWA988,SWA,B737-MAX,2005,Narrow,Southwest Airlines,DAL,700
+FFT560,FFT,A320neo,2021,Narrow,Frontier Airlines,DEN,200
+JBU231,JBU,A321,2013,Wide,JetBlue,JFK,300
+SWA998,SWA,B737-MAX,2020,Narrow,Southwest Airlines,DAL,700
+UAL743,UAL,B757,2012,Wide,United Airlines,ORD,850
+SWA622,SWA,B737-MAX,2021,Narrow,Southwest Airlines,DAL,700
+AAL712,AAL,B737-800,2005,Narrow,American Airlines,DFW,950
+DAL999,DAL,A320,2013,Narrow,Delta Air Lines,ATL,900
+UAL423,UAL,B757,2008,Wide,United Airlines,ORD,850
+NKS940,NKS,A319,2012,Narrow,Spirit Airlines,FLL,250
+DAL105,DAL,A320,2011,Narrow,Delta Air Lines,ATL,900
+NKS511,NKS,A319,2017,Narrow,Spirit Airlines,FLL,250
+DAL439,DAL,A320,2021,Narrow,Delta Air Lines,ATL,900

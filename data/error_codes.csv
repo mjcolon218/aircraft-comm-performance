@@ -1,0 +1,7 @@
+error_code,description,severity
+0,No error,Low
+101,Communication timeout,High
+202,Invalid message format,Medium
+303,Authentication failed,High
+404,Data not found,Medium
+505,Server error,High
