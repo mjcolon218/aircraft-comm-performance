@@ -45,7 +45,7 @@ This project emulates these challenges by:
 ![Signal Coverage](images/weak_signals_by_region_vs_coverage_quality.png)
 
 ### 📡 Weak Signal Zones by Airline Hub
-![Signal Coverage](images/Weak_signals_Count_by_Airline_hub.png)
+![Signal Coverage](images/Weak_Signals_Count_by_Airline_hub.png)
 ⚠️ Hubs like FFL and DFW show disproportionately high counts of weak signal events (< -90 dBm), suggesting potential RF dead zones or infrastructure issues
 
 ### 🚨 Avg response time by Airline Size
